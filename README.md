@@ -1,10 +1,14 @@
 
 # *Project Title: SuperStore Analysis*
 In this project, I will be using Microsoft Excel to analyse, visualize and draw insights from the Superstore Dataset publicly obtained from Kaggle (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final). The SuperStore dataset spans a period of Four (4) years.
------------------------------------=
-- [Problem Statement](#Problem Statement)
+
+
+-----------------------------------
+- [Problem Statement] (#Problem Statement)
+- 
+[What's Next?](#whats-next)
 ------------------------------------
-## *Problem Statement*
+## Problem Statement
 In this step, the business problem is discussed in the form of Business Objective to guide future business decisions...  
 Businesss Objectives:  
 * Total Sales?  
@@ -22,12 +26,11 @@ Businesss Objectives:
 * Top Selling Products?
 
 ------------------------------------
-![Uploading image.png…]()
 
 
 
 
-## What's Next?
-[What's Next?](#whats-next)
+
+
 
 
