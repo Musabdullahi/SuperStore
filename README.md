@@ -6,10 +6,15 @@ In this project, I will be using Microsoft Excel to analyse, visualize and draw 
 -----------------------------------
 
 [Problem Statement](#Problem-Statement)
+
 [Data Sourcing](#Data-Sourcing)
+
 [Data Transformation](#Data-Transformation)
+
 [Analysis and Findings](#Analysis-and-Findings)
+
 [Dashboard](#Dashboard)
+
 
 ------------------------------------
 ## Problem Statement
