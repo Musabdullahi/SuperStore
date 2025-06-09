@@ -5,8 +5,8 @@ In this project, I will be using Microsoft Excel to analyse, visualize and draw 
 
 -----------------------------------
 
-- [About Me](#about-me)
-- [Projects](#projects)
+- [Problem Statement](#Problem-Statement)
+- [Dashboard](#Dashboard)
 - [Skills](#skills)
 - [Contact](#contact)
 
@@ -29,6 +29,7 @@ Businesss Objectives:
 * Top Selling Products?
 
 ------------------------------------
+## Dashboard
 ![image](https://github.com/user-attachments/assets/2eac4387-e2ff-4085-9880-670347e360ce)
 
 
