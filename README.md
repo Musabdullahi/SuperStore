@@ -4,9 +4,12 @@ In this project, I will be using Microsoft Excel to analyse, visualize and draw 
 
 
 -----------------------------------
-- [Problem Statement] (#Problem Statement)
-- 
-[What's Next?](#whats-next)
+
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
+
 ------------------------------------
 ## Problem Statement
 In this step, the business problem is discussed in the form of Business Objective to guide future business decisions...  
@@ -26,11 +29,18 @@ Businesss Objectives:
 * Top Selling Products?
 
 ------------------------------------
+![image](https://github.com/user-attachments/assets/2eac4387-e2ff-4085-9880-670347e360ce)
 
 
 
 
+## About Me
 
+## Projects
+
+## Skills
+
+## Contact
 
 
 
